@@ -12,7 +12,7 @@ Olá Pessoal! Meu nome é Lucas Alencar e estudo programação 👋
 
 <div style="display: center" align="center">
   <a href="https://github.com/Lusquinhasoa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lusquinhasoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lusquinhasoa&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusquinhasoa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
@@ -39,7 +39,6 @@ Olá Pessoal! Meu nome é Lucas Alencar e estudo programação 👋
     <a href="https:/linkedin.com/in/lucasalencar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <div>
     
-      ##
       
 <div align="center">
   

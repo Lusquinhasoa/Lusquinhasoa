@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Pessoal!Meu nome é Lucas Alencar e estudo programação 👋
 
 
 - 🌱 Estudando Javscript e React
@@ -7,7 +7,7 @@
 
 ##
 
-<div>
+<div style="display: center">
   <a href="https://github.com/Lusquinhasoa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lusquinhasoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusquinhasoa&layout=compact&langs_count=16&theme=dracula"/>

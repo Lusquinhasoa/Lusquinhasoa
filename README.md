@@ -42,6 +42,6 @@ Olá Pessoal! Meu nome é Lucas Alencar e estudo programação 👋
       
 <div align="center">
   
-  ![Snake animation](https://github.com/alencar-lucas/alencar-lucas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alencar-lucas/Lusquinhasoa/blob/output/github-contribution-grid-snake.svg)
   
 </div>

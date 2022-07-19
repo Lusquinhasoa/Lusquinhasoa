@@ -12,8 +12,8 @@ Olá Pessoal! Meu nome é Lucas Alencar e estudo programação 👋
 
 <div style="display: center" align="center">
   <a href="https://github.com/Lusquinhasoa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lusquinhasoa&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusquinhasoa&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alencar-lucas&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alencar-lucas&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
   
@@ -42,6 +42,6 @@ Olá Pessoal! Meu nome é Lucas Alencar e estudo programação 👋
       
 <div align="center">
   
-  ![Snake animation](https://github.com/Lusquinhasoa/Lusquinhasoa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alencar-lucas/alencar-lucas/blob/output/github-contribution-grid-snake.svg)
   
 </div>
